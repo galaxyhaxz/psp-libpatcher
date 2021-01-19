@@ -5,7 +5,7 @@ Beginning with firmware 1.50 a new feature was introduced to use scratchpad RAM 
 
 Firmwares prior to 1.50 will fail to run or load any modules that have this flag set with error 0x80020001. This tool will patch library files to unset this flag allowing compiled games to run on prior firmwares.
 
-Has been tested with firmwares 1.00, 1.02, and 1.03.
+Has been tested with 1.51 SDK and executables run on firmwares 1.00, 1.02, and 1.03.
 
 Usage: libpatcher <library.a>
 
