@@ -9,4 +9,4 @@ Has been tested with 1.51 SDK and executables run on firmwares 1.00, 1.02, and 1
 
 `Usage: libpatcher <library.a>`
 
-TODO: need to dynamically search for stubs to fix modules like pspkernel.a
+TODO: need to dynamically search for stubs to fix modules like `libkernel.a`
