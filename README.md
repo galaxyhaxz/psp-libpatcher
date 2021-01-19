@@ -7,6 +7,6 @@ Firmwares prior to 1.50 will fail to run or load any modules that have this flag
 
 Has been tested with 1.51 SDK and executables run on firmwares 1.00, 1.02, and 1.03.
 
-Usage: libpatcher <library.a>
+`Usage: libpatcher <library.a>`
 
 TODO: need to dynamically search for stubs to fix modules like pspkernel.a
